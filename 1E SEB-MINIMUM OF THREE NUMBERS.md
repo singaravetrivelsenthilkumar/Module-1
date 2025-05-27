@@ -15,10 +15,6 @@ To write a Python program to find the minimum between three integer numbers usin
 5. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
 
 num1 = int(input())
 num2 = int(input())
@@ -27,8 +23,13 @@ num3 = int(input())
 min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
 
 print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
-```
+
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/48431a3d-231a-486b-95a3-ca4d4090d5be)
+
+
 ## RESULT
+
+Thus the Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator) was written and executed successfully.
