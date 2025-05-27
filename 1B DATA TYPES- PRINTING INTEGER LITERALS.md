@@ -1,29 +1,29 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
-
+# Experiment No: 1B- Data Types – Write a python program to read and print a float value
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to read and print a float value.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+1.Start the program.
+
+2.Prompt the user to input a float value.
+
+3.Read the input and convert it to a float.
+
+4.Print the float value.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222220048
+# Name- SINGARAVETRIVEL S
 # Write your code here
 
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+float_1=float(input())
+print(float_1)
 
 ```
 ## OUTPUT
+![Screenshot 2025-04-28 133519](https://github.com/user-attachments/assets/470a50fb-2060-49ef-a12c-c733fec7512a)
 
 ## RESULT
+The program successfully reads and displays the entered float value.
+
